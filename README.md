@@ -2,8 +2,6 @@
 
 Vue.js Instagram Clone with AWS S3 for Image Upload
 
-https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
-
 ## Project setup
 ```
 yarn install

@@ -1,5 +1,9 @@
 # vuegram
 
+Vue.js Instagram Clone with AWS S3 for Image Upload
+
+https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
+
 ## Project setup
 ```
 yarn install
@@ -20,5 +24,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Tutorial
+See [Tutorial - Build an Instagram Clone](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408).
